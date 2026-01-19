@@ -1,0 +1,6 @@
+projectKey=financeit-app
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=financeit-app
+ceTaskId=8cc58626-8958-4dbb-a040-ea019c02e46a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8cc58626-8958-4dbb-a040-ea019c02e46a
